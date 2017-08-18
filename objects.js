@@ -1,1 +1,1 @@
-var playlist = new Object({Kesha: "Praying"})
+var playlist = new Object({Kesha: "Praying"});
